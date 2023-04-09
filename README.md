@@ -16,5 +16,4 @@ Allow Host Address: 103.108.140.219
 Message Receiving URL: http://103.108.140.219/api/listener/sms_listener
 
 USSD Connection URL: http://103.108.140.219/api/listener/ussd_listener
-
 Subscription Notification URL: http://103.108.140.219/api/listener/sub_listener
